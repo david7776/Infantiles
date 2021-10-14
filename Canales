@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="I | Baby First FHD" tvg-logo="http://l3d.us:8080/images/f8089affee222f1f593459e5e30bfa2c.png" group-title="TV | Infantil",I | Baby First FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154077
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="I | Baby TV" tvg-logo="http://l3d.us:8080/images/45914664eafc286fb139a5036f142106.png" group-title="TV | Infantil",I | Baby TV
+http://l3d.us:8080/Kerly/QdBaKywVnc/10978
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="I | Cartoon Network FHD" tvg-logo="http://l3d.us:8080/images/7efdfc94655a25dcea3ec85e9bb703fa.png" group-title="TV | Infantil",I | Cartoon Network FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154080
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="I | Discovery Kids FHD" tvg-logo="http://l3d.us:8080/images/fe05079e794e0359d409b1ffbe224d9e.png" group-title="TV | Infantil",I | Discovery Kids FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154082
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="I | Disney Channel FHD" tvg-logo="http://l3d.us:8080/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="TV | Infantil",I | Disney Channel FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/148728
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="I | Disney Channel HD" tvg-logo="http://l3d.us:8080/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="TV | Infantil",I | Disney Channel HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/87108
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="I | Disney Jr FHD" tvg-logo="http://l3d.us:8080/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="TV | Infantil",I | Disney Jr FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154083
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="I | Disney Jr HQ" tvg-logo="http://l3d.us:8080/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="TV | Infantil",I | Disney Jr HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/28151
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="I | Disney XD FHD" tvg-logo="http://l3d.us:8080/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="TV | Infantil",I | Disney XD FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/148727
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="I | Disney XD HQ" tvg-logo="http://l3d.us:8080/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="TV | Infantil",I | Disney XD HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/87109
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="I | Nat Geo Kids FHD" tvg-logo="http://l3d.us:8080/images/e0b996ba19f32bbbbfe999939a5d016c.png" group-title="TV | Infantil",I | Nat Geo Kids FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154084
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="I | Nat Geo Kids HQ" tvg-logo="https://image.ibb.co/m60Xd0/natgeoids.png" group-title="TV | Infantil",I | Nat Geo Kids HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/10979
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="I | Nick Jr FHD" tvg-logo="http://l3d.us:8080/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="TV | Infantil",I | Nick Jr FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154089
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="I | Nick Jr HQ" tvg-logo="http://l3d.us:8080/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="TV | Infantil",I | Nick Jr HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/188849
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="I | Nickelodeon FHD" tvg-logo="http://l3d.us:8080/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="TV | Infantil",I | Nickelodeon FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154090
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="I | Nickelodeon HQ" tvg-logo="http://l3d.us:8080/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="TV | Infantil",I | Nickelodeon HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/10982
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="I | TeenNick FHD" tvg-logo="http://l3d.us:8080/images/ba9d97da675a9f26f24b5f9e333b35b7.png" group-title="TV | Infantil",I | TeenNick FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/154087
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="I | TeenNick HQ" tvg-logo="http://l3d.us:8080/images/ba9d97da675a9f26f24b5f9e333b35b7.png" group-title="TV | Infantil",I | TeenNick HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/10983
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="I | Universal Kids FHD" tvg-logo="http://l3d.us:8080/images/b98372662b2439a402857478ce871e9d.png" group-title="TV | Infantil",I | Universal Kids FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153893
+
